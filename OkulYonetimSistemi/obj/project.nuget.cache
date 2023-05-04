@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x8/LwqHB2ztqSNtj2TbLWmpJ2Y8h9rK0klnLqDp64GYHjGPwJF72xTs06IuQ9VB42/HvMsAuUATv/nLL0KhdkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\Projeler\\OKUL YONETIM SISTEMI\\OkulYonetimSistemi\\OkulYonetimSistemi\\OkulYonetimSistemi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

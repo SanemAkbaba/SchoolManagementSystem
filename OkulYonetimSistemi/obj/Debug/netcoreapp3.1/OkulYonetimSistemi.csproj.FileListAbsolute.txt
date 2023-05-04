@@ -1,0 +1,56 @@
+C:\Users\Casper\source\repos\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.exe
+C:\Users\Casper\source\repos\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.deps.json
+C:\Users\Casper\source\repos\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.runtimeconfig.json
+C:\Users\Casper\source\repos\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.runtimeconfig.dev.json
+C:\Users\Casper\source\repos\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.dll
+C:\Users\Casper\source\repos\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.pdb
+C:\Users\Casper\source\repos\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\Casper\source\repos\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\source\repos\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.AssemblyInfoInputs.cache
+C:\Users\Casper\source\repos\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.AssemblyInfo.cs
+C:\Users\Casper\source\repos\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.dll
+C:\Users\Casper\source\repos\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.pdb
+C:\Users\Casper\source\repos\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\1. STAGE GOLDENMADE\PROJECTS\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\1. STAGE GOLDENMADE\PROJECTS\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.deps.json
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\1. STAGE GOLDENMADE\PROJECTS\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\1. STAGE GOLDENMADE\PROJECTS\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\1. STAGE GOLDENMADE\PROJECTS\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\1. STAGE GOLDENMADE\PROJECTS\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\1. STAGE GOLDENMADE\PROJECTS\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\1. STAGE GOLDENMADE\PROJECTS\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\1. STAGE GOLDENMADE\PROJECTS\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\1. STAGE GOLDENMADE\PROJECTS\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\1. STAGE GOLDENMADE\PROJECTS\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\1. STAGE GOLDENMADE\PROJECTS\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\1. STAGE GOLDENMADE\PROJECTS\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\1. STAGE GOLDENMADE\PROJECTS\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Goldenmade\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.exe
+C:\Users\LENOVO\Desktop\Goldenmade\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.deps.json
+C:\Users\LENOVO\Desktop\Goldenmade\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Goldenmade\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Goldenmade\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.dll
+C:\Users\LENOVO\Desktop\Goldenmade\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.pdb
+C:\Users\LENOVO\Desktop\Goldenmade\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Goldenmade\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Goldenmade\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Goldenmade\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Goldenmade\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Goldenmade\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.dll
+C:\Users\LENOVO\Desktop\Goldenmade\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.pdb
+C:\Users\LENOVO\Desktop\Goldenmade\HOCANIN YUKLEDIGI PROJELER\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Projeler\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.exe
+C:\Users\LENOVO\Desktop\Projeler\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.deps.json
+C:\Users\LENOVO\Desktop\Projeler\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Projeler\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Projeler\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.dll
+C:\Users\LENOVO\Desktop\Projeler\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\bin\Debug\netcoreapp3.1\OkulYonetimSistemi.pdb
+C:\Users\LENOVO\Desktop\Projeler\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Projeler\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Projeler\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Projeler\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Projeler\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Projeler\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.dll
+C:\Users\LENOVO\Desktop\Projeler\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.pdb
+C:\Users\LENOVO\Desktop\Projeler\OKUL YONETIM SISTEMI\OkulYonetimSistemi\OkulYonetimSistemi\obj\Debug\netcoreapp3.1\OkulYonetimSistemi.genruntimeconfig.cache
